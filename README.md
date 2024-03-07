@@ -1,0 +1,2 @@
+# libmansys
+Library-man-sys
